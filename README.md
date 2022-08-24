@@ -2,7 +2,7 @@
 
 <p>PASSO A PASSO</p>
 
-1º - Para iniciar o projeto foi necesssário realizar a integração do Python com o MySql . Para isso eu criei um novo banco de dados chamado "teste" com as tabelas "info_igreja" e "info_membro" com as informações pedidas. Para a conexão ser realizada eu passei como parâmetro o "host", "user", "password" e "database" para relacionar o Python com o que foi criado com o MySql e para executar os comandos da minha conexão foi criado a variável "cursor". 
+1º - Para iniciar o projeto foi necesssário realizar a integração do Python com o MySql . Para isso eu criei um novo banco de dados chamado "teste" com as tabelas "info_igreja" e "info_membro" com as informações pedidas. Para a conexão ser realizada eu passei como parâmetro o "host", "user", "password" e "database" para relacionar o Python com o que foi criado com o MySql. Para executar os comandos da minha conexão foi criado a variável "cursor". 
 
 2º - Para inserir um conteúdo no banco de dados foi criada a variável "comando" que armazena nas tabelas as informações passadas pelo usuário (input) e logo depois o cursor executa esse comando passando as informações para o banco de dados.
 
