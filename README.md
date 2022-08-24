@@ -14,4 +14,4 @@
 
 <p>OBSERVAÇÃO</p>
 
-Muito dos requisitos pedidos eu não pude cumprir, pois como foi dito na entrevista eu nunca tive contato com FrontEnd nem banco de dados, Então tudo que eu executei com MySql eu aprendi no período em que o teste esteve aberto. 
+Muito dos requisitos pedidos eu não pude cumprir, pois como foi dito na entrevista eu nunca tive contato com FrontEnd nem banco de dados, Então tudo que eu executei com MySql eu aprendi no período em que o teste esteve aberto. Também nunca realizei um projeto utilizando uma framework. Mas caso a empresa decida me contratar, eu estou totalmente aberto a aprender todos  os conhecimentos necessários para ajudar a equipe. Agradeço a Oportunidade!!!!
